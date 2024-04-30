@@ -1,3 +1,5 @@
+General open-source license
+
 You SHALL read this license through to its conclusion.
 
 Distribution:
