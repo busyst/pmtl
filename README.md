@@ -8,7 +8,7 @@ Things to do:
 * Security                Probably NEVER
 * User-friendly interface NEVER
 
-Also project half completed, for sure
+Also project 99% completed, for sure
 
 License:
 * Read License.txt

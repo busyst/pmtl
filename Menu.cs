@@ -2,15 +2,8 @@ using System.Text.RegularExpressions;
 
 public class ConsoleMenu
 {
-    private readonly List<MenuItem> _menuItems;
-    private bool _isRunning;
-
-    public ConsoleMenu()
-    {
-        _menuItems = [];
-        _isRunning = true;
-    }
-
+    private readonly List<MenuItem> _menuItems = [];
+    private bool _isRunning = true; 
     public void AddMenuItem(string text, Action action)
     {
         if (string.IsNullOrEmpty(text))

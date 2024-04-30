@@ -21,5 +21,4 @@ I SHALL NOT ACCEPT responsibility for any actions you undertake with the code or
 
 Miscellaneous:
 You ACKNOWLEDGE that the concept of "clean code" is subjective and may lack a definitive definition. 
-You AGREE that mainstream trends are often inferior, while niche concepts are inherently superior. 
 You WILL experience a sense of remorse should you breach the terms of this license, but it would not end there.
