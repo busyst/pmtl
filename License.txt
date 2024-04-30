@@ -1,0 +1,23 @@
+You SHALL read this license through to its conclusion.
+
+Distribution:
+You SHALL agree to abide by this license if you choose to utilize any code or software from this project. 
+You are PERMITTED to employ this code for any purpose. 
+In the event that this project incorporates libraries or software governed by other licenses, those specific portions of code responsible for utilizing those libraries are distributed under their respective licenses.
+Utilizing the code or software from the project without agreeing to the terms of the license WOULD be a violation.
+
+Modification:
+You ARE PERMITTED to modify this code and utilize it only under this license.
+You ARE PERMITTED to modify this code and utilize it under your own license, provided that it cannot be directly traced back to this original code.
+
+Contribution:
+You ARE PERMITTED to contribute in any manner that does not violate this license. 
+You WILL contribute only clean code.
+
+Responsibility:
+I SHALL NOT ACCEPT responsibility for any actions you undertake with the code or software provided herein.
+
+Miscellaneous:
+You ACKNOWLEDGE that the concept of "clean code" is subjective and may lack a definitive definition. 
+You AGREE that mainstream trends are often inferior, while niche concepts are inherently superior. 
+You WILL experience a sense of remorse should you breach the terms of this license, but it would not end there.
